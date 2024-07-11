@@ -30,7 +30,7 @@ This template ships with the main React and Storybook configuration files you'll
     cd taskbox/
 
     # Install the dependencies
-    yarn
+    pnpm i or yarn
     ```
 
 1.  **Open the source code and start editing!**
